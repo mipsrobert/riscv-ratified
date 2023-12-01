@@ -2,7 +2,9 @@
 
 **NOTE: This is only SIMPLE model (made by Robert) to illustrate the concept and the process**
 
-All ratified (**as of 2022/05/05**) RISC-V specifications (**newest on top**):
+All ratified (**as of 2023/11/30**) RISC-V specifications (**newest on top**):
+
+2023/11/30, RISC-V Cycle and Instret Privilege Mode Filtering (Smcntrpmf), v1.0, [riscv-smcntrpmf-v1.0.pdf](./riscv-smcntrpmf-v1.0.pdf)
 
 2022/05/05, Efficient Trace for RISC-V, v2.0, [riscv-etrace-v2.0.pdf](./riscv-etrace-v2.0.pdf)
 
