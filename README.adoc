@@ -1,19 +1,36 @@
-# Ratified RISC-V Specifications
+# Official RISC-V Specifications
 
 **NOTE: This is only SIMPLE model (made by Robert) to illustrate the concept and the process**
 
-All ratified (**as of 2023/11/30**) RISC-V specifications (**newest on top**):
+## Ratified
 
-2023/11/30, RISC-V Cycle and Instret Privilege Mode Filtering (Smcntrpmf), v1.0, [riscv-smcntrpmf-v1.0.pdf](./riscv-smcntrpmf-v1.0.pdf)
+.*All Ratified RISC-V Specifications (as of 2023/11/30, newest on top)*
+[cols="20%,5%,15%,~,30%",options="header",]
+|===
+|Name| Ver| Date| Description| Spec
+[[Smcntrpmf-v1.0]]
+|Smcntrpmf | 1.0 | 2023/11/30 | RISC-V Cycle and Instret Privilege Mode Filtering |
+https://github.com/mipsrobert/riscv-ratified/riscv-smcntrpmf-v1.0.pdf[PDF]
+[[etrace-v2.0]]
+|etrace|v2.0 |2022/05/05|Efficient Trace for RISC-V|
+https://github.com/mipsrobert/riscv-ratified/riscv-etrace-v2.0.pdf[PDF]
+[[privileged-20211203]]
+|privileged||2021/12/03|The RISC-V Instruction Set Manual Volume II Privileged Architecture|
+https://github.com/mipsrobert/riscv-ratified/riscv-privileged-20211203.pdf[PDF]
+[[unprivileged-20191213]]
+|unprivileged||2019/12/13|The RISC-V Instruction Set Manual, Volume I: Unprivileged ISA|
+https://github.com/mipsrobert/riscv-ratified/riscv-spec-20191213.pdf[PDF]
+[[debug-v0.13.2]]
+|debug|v0.13.2|2019/03/22|RISC-V External Debug Support|
+https://github.com/mipsrobert/riscv-ratified/riscv-debug-v0.13.2.pdf[PDF]
+|===
 
-2022/05/05, Efficient Trace for RISC-V, v2.0, [riscv-etrace-v2.0.pdf](./riscv-etrace-v2.0.pdf)
+## Older
 
-2021/12/03, The RISC-V Instruction Set Manual Volume II: Privileged Architecture, 20211203, [riscv-privileged-20211203.pdf](./riscv-privileged-20211203.pdf)
-
-2019/12/13, The RISC-V Instruction Set Manual, Volume I: Unprivileged ISA, 20191213, [riscv-spec-20191213.pdf](./riscv-spec-20191213.pdf)
-
-2019/03/22, RISC-V External Debug Support, v0.13.2, [riscv-debug-v0.13.2.pdf](./riscv-debug-v0.13.2.pdf)
-
-# Older versions (newer version ratified later)
-
-2020/03/20, RISC-V Processor Trace, v1.0, [riscv-etrace-v1.0.pdf](./riscv-etrace-v1.0.pdf)
+.*Collection of older versions (newer version ratified later)*
+[cols="20%,5%,15%,~,30%",options="header",]
+|===
+|Name| Ver| Date| Description| PDF
+|etrace|v1.0 |2020/03/20|RISC-V Processor Trace|
+https://github.com/mipsrobert/riscv-ratified/riscv-etrace-v1.0.pdf[PDF]
+|===
