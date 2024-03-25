@@ -5,33 +5,36 @@
 ## Ratified
 
 .*All Ratified RISC-V Specifications (as of 2023/11/30, newest on top)*
-[cols="20%,5%,15%,~,30%",options="header",]
+[cols="25%,10%,~",options="header",]
 |===
-|Name| Ver| Date| Description| Spec
+|Name-Ver| Date| Description
+
 [[Smcntrpmf-v1.0]]
-|Smcntrpmf |v1.0 | 2023/11/30 | RISC-V Cycle and Instret Privilege Mode Filtering |
-link:./pdfs/riscv-smcntrpmf-v1.0.pdf[PDF]
+|link:./pdfs/riscv-smcntrpmf-v1.0.pdf[Smcntrpmf-v1.0] | 2023/11/30 | RISC-V Cycle and Instret Privilege Mode Filtering
+
 [[etrace-v2.0]]
-|etrace|v2.0 |2022/05/05|Efficient Trace for RISC-V|
-link:./pdfs/riscv-etrace-v2.0.pdf[PDF]
-[[privileged-v20211203]]
-|privileged||2021/12/03|The RISC-V Instruction Set Manual Volume II: Privileged Architecture|
-link:./pdfs/riscv-privileged-20211203.pdf[PDF]
-[[isa-v20191213]]
-|isa||2019/12/13|The RISC-V Instruction Set Manual, Volume I: Unprivileged ISA|
-link:./pdfs/riscv-spec-20191213.pdf[PDF]
+|link:./pdfs/riscv-etrace-v2.0.pdf[etrace-v2.0] |2022/05/05|Efficient Trace for RISC-V
+
+
+[[privileged-20211203]]
+|link:./pdfs/riscv-privileged-20211203.pdf[privileged-20211203]|2021/12/03|The RISC-V Instruction Set Manual Volume II: Privileged Architecture
+
+[[isa-20191213]]
+|link:./pdfs/riscv-spec-20191213.pdf[isa-20191213]|2019/12/13|The RISC-V Instruction Set Manual, Volume I: Unprivileged ISA
+
 [[debug-v0.13.2]]
-|debug|v0.13.2|2019/03/22|RISC-V External Debug Support|
-link:./pdfs/riscv-debug-v0.13.2.pdf[PDF]
+|link:./pdfs/riscv-debug-v0.13.2.pdf[debug-v0.13.2]|2019/03/22|RISC-V External Debug Support
+
 |===
 
 ## Older
 
 .*Collection of older versions (newer version ratified later)*
-[cols="20%,5%,15%,~,30%",options="header",]
+[cols="25%,10%,~",options="header",]
 |===
-|Name| Ver| Date| Description| PDF
+|Name-Ver| Date| Description
+
 [[etrace-v1.0]]
-|etrace|v1.0 |2020/03/20|RISC-V Processor Trace|
-link:./pdfs/riscv-etrace-v1.0.pdf[PDF]
+|link:./pdfs/riscv-etrace-v1.0.pdf[etrace-v1.0]|2020/03/20|RISC-V Processor Trace
+
 |===
